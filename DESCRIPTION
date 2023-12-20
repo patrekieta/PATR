@@ -1,0 +1,16 @@
+Package: PATR
+Type: Package
+Title: PATR
+Version: 0.1.0
+Author: Patrick Rekieta
+Maintainer: Patrick Rekieta <Patrick.Rekieta@gmail.com>
+Description: Personal R Package of useful functions.
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>=3.1)
+Imports:
+    httr
+    jsonlite
+    tidyr
+    lubridate
